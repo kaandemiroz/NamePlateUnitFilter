@@ -197,13 +197,13 @@ local function Initialize ()
 
 	RegisterNewSlashCommand(SlashCmdHandler, "NPUF", "NAMEPLATEUNITFILTER")
 
-	table.insert(filterList, "Wild Imp")
-	table.insert(filterList, "Malicious Imp")
-	table.insert(filterList, "Dreadstalker")
-	table.insert(filterList, "Risen Skulker")
-	table.insert(filterList, "Army of the Dead")
-	table.insert(filterList, "Magus of the Dead")
-	table.insert(filterList, "Kevin's Oozeling")
+	table.insert(filterList, "wild imp")
+	table.insert(filterList, "malicious imp")
+	table.insert(filterList, "dreadstalker")
+	table.insert(filterList, "risen skulker")
+	table.insert(filterList, "army of the dead")
+	table.insert(filterList, "magus of the dead")
+	table.insert(filterList, "kevin's oozeling")
 end
 
 Initialize()
