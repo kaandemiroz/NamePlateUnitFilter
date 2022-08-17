@@ -1,8 +1,8 @@
-## Interface: 90205
+## Interface: 90207
 ## Title: NamePlate Unit Filter
 ## Notes: Filters nameplates based on unit name
 ## Author: Shadock
-## Version: 0.1.0
+## Version: 0.1.1
 ## DefaultState: enabled
 
 NamePlateUnitFilter.lua
